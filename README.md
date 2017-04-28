@@ -6,3 +6,4 @@ Fully-playable application for the classic board game Reversi
 
 
 You can customize board dimensions
+![Alt tag](https://github.com/alvin562/Othello/blob/master/pics/pic3.png)
